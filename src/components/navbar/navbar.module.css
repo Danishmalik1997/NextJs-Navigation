@@ -1,0 +1,22 @@
+.container { 
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right_section { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.btn { 
+    padding: 4px;
+    background-color: green;
+    cursor: pointer;
+    color: white; 
+    border-radius: 10px;
+}
+
